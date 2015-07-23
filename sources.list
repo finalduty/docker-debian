@@ -1,0 +1,4 @@
+deb http://mirror.webhost.co.nz/debian wheezy main contrib non-free
+deb http://mirror.webhost.co.nz/debian/ wheezy-updates main contrib non-free
+deb http://mirror.webhost.co.nz/debian-security/ wheezy/updates main contrib non-free
+
