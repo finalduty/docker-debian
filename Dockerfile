@@ -10,3 +10,4 @@ ADD http://raw.githubusercontent.com/finalduty/git/master/configs/.vimrc /root/.
 
 RUN apt-get update && apt-get upgrade -y
 RUN apt-get install -y vim apt-file apt-utils
+RUN apt-file update
