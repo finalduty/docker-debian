@@ -1,6 +1,6 @@
 ## Docker File for Debian 7
 FROM debian:testing
-MAINTAINER "FinalDuty" <andy.dustin@gmail.com>
+MAINTAINER "FinalDuty" <root@finalduty.me>
 
 RUN apt-get update && apt-get install -y vim curl 
 
