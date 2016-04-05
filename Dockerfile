@@ -1,4 +1,3 @@
-## Docker File for Debian 7
 FROM debian:testing
 MAINTAINER "FinalDuty" <root@finalduty.me>
 
