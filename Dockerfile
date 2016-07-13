@@ -1,4 +1,4 @@
-FROM debian:testing
+FROM debian
 MAINTAINER "FinalDuty" <root@finalduty.me>
 
 RUN apt-get update && apt-get install -y vim curl 
